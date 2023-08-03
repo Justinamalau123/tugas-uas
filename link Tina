@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+	<title>link</title>
+</head>
+<body>
+	<table border="1" width="700px">
+	<tr>
+		<td colspan="2"height="150"blog Juatina malau</td>
+	</tr>
+
+	<tr>
+		<td width="500"height="300">selamat datang...</td>
+	</tr>
+		MENU
+		<ul>
+			<li><a href="index.html">home</a><li>
+			<li><a href="about.html">about</a><li>
+			<li><a href="contact.html">contact</a><li>
+			<li><a href="profil.html">profil</a><li>
+		</ul>
+	</td>
+	<tr>
+		<td colspan="height"="100">Created by Justina malau</td>
+	</tr>
+
+	</table>
+
+</body>
+</html>
